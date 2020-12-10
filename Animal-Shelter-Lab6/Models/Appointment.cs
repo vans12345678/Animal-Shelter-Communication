@@ -1,5 +1,4 @@
-﻿
-// File: Appointment.cs
+﻿// File: Appointment.cs
 // Name: Andre Agrippa
 // Date: 12 / 04 / 2020
 // Purpose: Appointment class that has appointment data members and getters/setters, validates itself.

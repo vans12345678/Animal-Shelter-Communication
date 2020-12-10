@@ -1,4 +1,8 @@
-﻿using System;
+﻿// File: HomeController.cs
+// Name: Andre Agrippa
+// Date: 12 / 10 / 2020
+// Purpose: Home controller, returns login views based on user
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
