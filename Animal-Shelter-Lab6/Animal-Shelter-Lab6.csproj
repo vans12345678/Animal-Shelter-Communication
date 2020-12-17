@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-Animal_Shelter_Lab6-C8E392E6-1C0D-45BF-AF28-9CAAC0376022</UserSecretsId>
     <RootNamespace>Animal_Shelter_Lab6</RootNamespace>
+    <NoWin32Manifest>true</NoWin32Manifest>
   </PropertyGroup>
 
   <ItemGroup>
